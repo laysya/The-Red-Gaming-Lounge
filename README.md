@@ -23,6 +23,7 @@ The system focuses on managing online and offline bookings, multiple PlayStation
 The database consists of six main tables:
 
 | Table | Description |
+|---|---|
 | `customers` | Stores customer information. |
 | `employees` | Stores employee information. |
 | `ps_units` | Stores PlayStation unit information and availability status. |
@@ -50,6 +51,7 @@ The database consists of six main tables:
 # Project Structure
 
 | Folder / File | Description |
+|---|---|
 | `01_project_documentation/` | Project documentation and testing explanations. |
 | `02_database_design/` | Entity Relationship Diagram (ERD). |
 | `03_sql_scripts/` | SQL scripts for database creation, data insertion, and queries. |
